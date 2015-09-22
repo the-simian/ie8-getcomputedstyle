@@ -1,4 +1,4 @@
-#IE8 Shim getComputedStyle
+#IE8 getComputedStyle()
 
 Do you want a shim for getComputedStyle that works with browserify/webpack?
 
