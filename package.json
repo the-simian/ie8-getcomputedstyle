@@ -1,5 +1,5 @@
 {
-  "name": "ie8-shim-getcomputedstyle",
+  "name": "ie8-getcomputedstyle",
   "version": "0.1.0",
   "description": "A Shim for the getComputedStyle function for Interenet Explorer 8",
   "main": "index.js",
