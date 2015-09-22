@@ -1,0 +1,25 @@
+{
+  "name": "ie8-shim-getcomputedstyle",
+  "version": "0.1.0",
+  "description": "A Shim for the getComputedStyle function for Interenet Explorer 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the-simian/ie8-shim-getcomputedstyles.git"
+  },
+  "keywords": [
+    "ie8",
+    "shim",
+    "getComputedStyle",
+    "polyfill"
+  ],
+  "author": "Jesse Harlin <harlinjesse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-simian/ie8-shim-getcomputedstyles/issues"
+  },
+  "homepage": "https://github.com/the-simian/ie8-shim-getcomputedstyles#readme"
+}
